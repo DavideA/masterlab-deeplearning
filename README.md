@@ -7,3 +7,4 @@
 
 ### Second lab lecture: Recurrent Neural Nets
 * Sequence counter: [slides](sequence_counter/tensorflow_lstm.pdf), [notebook](sequence_counter/tensorflow_sequence_counter.ipynb)
+* Sentiment analysis: [noteboook](sentiment_analysis/tensorflow_sentiment_analysis.ipynb)
