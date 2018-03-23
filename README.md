@@ -10,6 +10,6 @@
 * Sentiment analysis: [noteboook](sentiment_analysis/tensorflow_sentiment_analysis.ipynb)
 
 ### Third lab lecture: Convolutional Neural Nets
-* [Slides] (convnets/tensorflow_convnets.pdf)
-* [Classification] (convnets/tensorflow_cnn_classification.ipynb)
-* [Segmentation] (convnets/tensorflow_cnn_segmentation.ipynb)
+* [Slides](convnets/tensorflow_convnets.pdf)
+* [Classification](convnets/tensorflow_cnn_classification.ipynb)
+* [Segmentation](convnets/tensorflow_cnn_segmentation.ipynb)
